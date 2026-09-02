@@ -1,0 +1,20 @@
+{
+  "name": "app3-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "@exodus/bytes": "^1.0.0",
+    "daemon": "^1.1.0",
+    "init": "^0.1.2",
+    "jsdom": "^25.0.1",
+    "nodejs": "^0.0.0",
+    "nodemon": "^3.1.14"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
